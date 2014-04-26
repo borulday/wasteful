@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	return "asdasd";
+	return View::make('index');
 });
 
 Route::get('users', function()
