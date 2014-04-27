@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'debug' => false,
+	'debug' => true,
 
 	/*
 	|--------------------------------------------------------------------------
@@ -39,7 +39,7 @@ return array(
 	|
 	*/
 
-	'timezone' => 'UTC',
+	'timezone' => 'Europe/Istanbul',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -120,6 +120,8 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
+		'Pitchanon\FacebookConnect\FacebookConnectServiceProvider',
+		'Anouar\Paypalpayment\PaypalpaymentServiceProvider',
 	),
 
 	/*
@@ -185,6 +187,8 @@ return array(
 		'URL'             => 'Illuminate\Support\Facades\URL',
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
+
+		'Paypalpayment'   => 'Anouar\Paypalpayment\Facades\PaypalPayment',
 
 	),
 

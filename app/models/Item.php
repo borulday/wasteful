@@ -1,6 +1,6 @@
 <?php
 
-class User extends Eloquent {
+class Item extends Eloquent {
 
 	public $timestamps = false;
 	/**
@@ -8,7 +8,7 @@ class User extends Eloquent {
 	 *
 	 * @var string
 	 */
-	protected $table = 'users';
+	protected $table = 'items';
 
 	/**
 	 * The attributes excluded from the model's JSON form.

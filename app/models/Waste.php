@@ -1,6 +1,6 @@
 <?php
 
-class User extends Eloquent {
+class Waste extends Eloquent {
 
 	public $timestamps = false;
 	/**
@@ -8,7 +8,7 @@ class User extends Eloquent {
 	 *
 	 * @var string
 	 */
-	protected $table = 'users';
+	protected $table = 'wasted';
 
 	/**
 	 * The attributes excluded from the model's JSON form.
@@ -23,5 +23,7 @@ class User extends Eloquent {
 	 */
 	protected $primaryKey = 'id';
 
-	
+	public function item() {
+		return $this->hasOne('Item', 'id', 'item_id');
+	}
 }
