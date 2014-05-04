@@ -2,10 +2,10 @@
 @section('content')
 
 	  <div class="navbarSp" style="width:100%; padding:2% 10%; background-color:#10bac3; overflow:hidden;">
-		  <div class="col-md-9">
+		  <div class="col-md-9 col-sm-9">
 	    	  <a class="" href="/" style="text-decoration:none;"><h2 style="color:white;">WASTEFUL </h2></a>
 		</div>
-		<div class="col-md-3" style=" margin-top:20px; text-align:right;">
+		<div class="col-md-3 col-sm-3" style=" margin-top:20px; text-align:right;">
 			<a href="/leaderboard" style="font-size:16px; color:white; text-decoration:underline;">Leaderboard</a>
 			<div style="width:30px;"></div>
 			<a href="/profile" style="font-size:16px; color:white; text-decoration:underline;">Profile</a>
