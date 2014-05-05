@@ -2,8 +2,8 @@
 
 return array(
 
-	'url' => 'http://local.bunuye.com/',
-	'url_see' => 'http://local.bunuye.com/see/',
+	'url' => 'http://www.bunuye.com/',
+	'url_see' => 'http://www.bunuye.com/see/',
 
 
 );

@@ -11,16 +11,16 @@
 			<a href="/profile" style="font-size:16px; color:white; text-decoration:underline;">Profile</a>
 		</div>
 	  </div>
-	  
+
 	  <div class="container">
 		  <div class="col-md-10 col-md-offset-1">
-			  <h3 style="margin-top:5%;">			  
-			  	Select the foods you wasted today : 
+			  <h3 style="margin-top:5%;">
+			  	Select the foods you wasted today :
 			  </h3>
 		  </div>
 		  <div class="col-md-10 col-md-offset-1">
 			<div class="row">
-				<form id="itemform" name="itemform" method="post" action="http://local.bunuye.com/items/send" accept-charset="utf-8">
+				<form id="itemform" name="itemform" method="post" action="http://www.bunuye.com/items/send" accept-charset="utf-8">
 				  	@foreach ($items as $it)
 						<div class="col-md-3" style="margin:5% auto 3% auto;">
 							<img src="/see/images/{{$it->id}}.png" style="width:100%;"/>
@@ -36,7 +36,7 @@
 								</p>
 							</div>
 						</div>
-					@endforeach 
+					@endforeach
 					<div class="col-md-1 col-md-offset-11" style="margin-bottom:50px !important;">
 					  	<button id="submitButton" type="submit" class="btn btn-primary btn-lg">
 							NEXT >
@@ -46,7 +46,7 @@
 				</form>
 
 			</div>
-			
+
 		  </div>
 	  </div>
 	  <script type="text/javascript">
