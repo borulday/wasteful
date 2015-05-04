@@ -42,12 +42,12 @@
 			  </div>
 		  	  </div>
 			  
-			  <div class="col-md-10" style="margin-top:5%;">			 
+			  <div class="col-md-10" style="margin-top:5%;">
 				  <div class="col-md-8 text-right col-md-offset-2">
 					<div style="font-size:20px;">Do you want to adopt a polar bear and reduce the damage you have caused?</div>
 				  </div>
 				  <div class="col-md-2 text-right">
-					<a href="#gel">
+					<a href="http://www.wwf.org.tr/sizneyapabilirsiniz/evlat_edinin2/">
 						<button type="button" class="btn btn-success btn-lg">
 							<span class="glyphicon glyphicon-heart"></span>
 							<span class="glyphicon glyphicon-heart"></span>
@@ -56,84 +56,43 @@
 					</a>
 				  </div>
 			  </div>
+
 			  <div class="col-md-12" style="margin-top:5%;" id="gel">			 
 	  			<div class="row">
 			  
 	  			  <div class="col-md-3" style="margin:5% auto 3% auto;">
 	  			      <img src="/see/images/bear2.png" style="width:100%;"/>
-
-						<p>	
-	  	  			      <div class="caption">
-	  	  			        <span class="text-left col-md-6" style="padding:2%; font-size:20px; font-family:avenir-heavy">-15TL-</span>
-								<div style="float:right; padding:2% 0;">
-	  								<img src="/see/images/pp.png" style="width:100%;"/>
-								</div>
-								<div style="width:100%; overflow:hidden; text-align:right; clear:both;">
-							  		<button type="button" class="btn btn-warning" style="width:100%;" onclick="pay(15);">
-										<span class="glyphicon glyphicon-usd"></span>										
-										CHECK OUT
-									</button>
-								</div>
-	  	  			      </div>	
-						</p>
 	  			  </div>
 	  			  <div class="col-md-3" style="margin:5% auto 3% auto;">
 	  			      <img src="/see/images/bear.png" style="width:100%;"/>
-
-						<p>	
-	  	  			      <div class="caption">
-	  	  			        <span class="text-left col-md-6" style="padding:2%; font-size:20px; font-family:avenir-heavy">-35TL-</span>
-								<div style="float:right; padding:2% 0;">
-	  								<img src="/see/images/pp.png" style="width:100%;"/>
-								</div>
-								<div style="width:100%; overflow:hidden; text-align:right; clear:both;">
-							  		<button type="button" class="btn btn-warning" style="width:100%;" onclick="pay(35);">
-										<span class="glyphicon glyphicon-usd"></span>										
-										CHECK OUT
-									</button>
-								</div>
-	  	  			      </div>	
-						</p>
 	  			  </div>
 	  			  <div class="col-md-3" style="margin:5% auto 3% auto;">
 	  			      <img src="/see/images/bear3.png" style="width:100%;"/>
-
-						<p>	
-	  	  			      <div class="caption">
-	  	  			        <span class="text-left col-md-6" style="padding:2%; font-size:20px; font-family:avenir-heavy">-75TL-</span>
-								<div style="float:right; padding:2% 0;">
-	  								<img src="/see/images/pp.png" style="width:100%;"/>
-								</div>
-								<div style="width:100%; overflow:hidden; text-align:right; clear:both;">
-							  		<button type="button" class="btn btn-warning" style="width:100%;" onclick="pay(75);">
-										<span class="glyphicon glyphicon-usd"></span>										
-										CHECK OUT
-									</button>
-								</div>
-	  	  			      </div>	
-						</p>
 	  			  </div>
 	  			  <div class="col-md-3" style="margin:5% auto 3% auto;">
 	  			      <img src="/see/images/bear4.png" style="width:100%;"/>
-
-						<p>	
-	  	  			      <div class="caption">
-	  	  			        <span class="text-left col-md-6" style="padding:2%; font-size:20px; font-family:avenir-heavy">-100TL-</span>
-								<div style="float:right; padding:2% 0; ">
-	  								<img src="/see/images/pp1.png" style="width:100%;"/>
-								</div>
-								<div style="width:100%; overflow:hidden; text-align:right; clear:both;">
-							  		<button type="button" class="btn btn-warning" style="width:100%;" onclick="pay(100);">
-										<span class="glyphicon glyphicon-usd"></span>										
-										CHECK OUT
-									</button>
-								</div>
-	  	  			      </div>	
-						</p>
 	  			  </div>
 			  
 	  			</div>
 			  </div>
+
+
+			  <div class="col-md-10" style="margin-top:5%;">
+				  <div class="col-md-8 text-right col-md-offset-2">
+					<div style="font-size:20px;">Do you want to adopt a polar bear and reduce the damage you have caused?</div>
+				  </div>
+				  <div class="col-md-2 text-right">
+					<a href="http://www.wwf.org.tr/sizneyapabilirsiniz/evlat_edinin2/">
+						<button type="button" class="btn btn-success btn-lg">
+							<span class="glyphicon glyphicon-heart"></span>
+							<span class="glyphicon glyphicon-heart"></span>
+							ADOPT
+						</button>
+					</a>
+				  </div>
+			  </div>
+			  
+
 		  </div>
 	  </div>
 	  <script type="text/javascript">
