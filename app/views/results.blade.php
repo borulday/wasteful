@@ -77,7 +77,7 @@
 			  </div>
 
 
-			  <div class="col-md-10" style="margin-top:5%;">
+			  <div class="col-md-10" style="margin-top:5%; margin-bottom:7%;">
 				  <div class="col-md-8 text-right col-md-offset-2">
 					<div style="font-size:20px;">Do you want to adopt a polar bear and reduce the damage you have caused?</div>
 				  </div>
