@@ -15,7 +15,7 @@
 		  <div class="col-md-8 col-md-offset-2	">
 			  <h2 class="text-center" style="line-height:35px; margin:15% auto 10%; color:#fff;"> Did you finished your plate today? If not, see how much carbon gas emission it caused. </h2	>
 			  <div class="col-md-8 col-md-offset-2 text-center" style="height:265px;">
-			  	<button type="button" class="btn btn-warning btn-lg">
+			  	<button type="button" class="btn btn-warning btn-lg" onclick="connect();">
 					<span class="glyphicon glyphicon-globe"></span>
 					LETS LEARN YOUR CARBON FOOTPRINT
 				</button>
