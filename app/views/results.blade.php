@@ -47,7 +47,7 @@
 					<div style="font-size:20px;">Do you want to adopt a polar bear and reduce the damage you have caused?</div>
 				  </div>
 				  <div class="col-md-2 text-right">
-					<a href="http://www.wwf.org.tr/sizneyapabilirsiniz/evlat_edinin2/">
+					<a href="http://www.wwf.org.tr/sizneyapabilirsiniz/evlat_edinin2/" target="_blank">
 						<button type="button" class="btn btn-success btn-lg">
 							<span class="glyphicon glyphicon-heart"></span>
 							<span class="glyphicon glyphicon-heart"></span>
@@ -82,7 +82,7 @@
 					<div style="font-size:20px;">Do you want to adopt a polar bear and reduce the damage you have caused?</div>
 				  </div>
 				  <div class="col-md-2 text-right">
-					<a href="http://www.wwf.org.tr/sizneyapabilirsiniz/evlat_edinin2/">
+					<a href="http://www.wwf.org.tr/sizneyapabilirsiniz/evlat_edinin2/" target="_blank">
 						<button type="button" class="btn btn-success btn-lg">
 							<span class="glyphicon glyphicon-heart"></span>
 							<span class="glyphicon glyphicon-heart"></span>
