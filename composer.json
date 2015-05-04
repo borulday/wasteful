@@ -6,8 +6,6 @@
 	"require": {
 		"laravel/framework": "4.1.*",
 		"pitchanon/facebook-connect": "dev-master",
-		"sendgrid/sendgrid": "2.0.5",
-		"anouar/paypalpayment": "dev-master",
 		"rmccue/requests": ">=1.0"
 	},
 	"autoload": {
